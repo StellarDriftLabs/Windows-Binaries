@@ -1,2 +1,2 @@
 # Windows-Binaries
-This repository useful binaries. 
+This repository contains some useful Windows binaries. 
